@@ -43,9 +43,9 @@ knitr:
     out.width: "70%"
 ---
 
-<div style="text-align: right;">
-  <img src="logout.png" width="150" alt="logo">
-</div>
+::: {.column-margin}
+![](logout.png){width="150"}
+:::
 
 ```{=html}
 <style>
