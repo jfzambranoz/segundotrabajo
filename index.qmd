@@ -129,7 +129,7 @@ Donde:
 
 **π** es la constante pi (aproximadamente 3.14159).
 
-Para calcular probabilidades, se utiliza la distribución normal estándar, que tiene una media de 0 y una desviación estándar de 1. Cualquier variable normal puede estandarizarse usando la siguiente fórmula:
+Para calcular probabilidades,se utiliza la distribución normal estándar, que tiene una media de 0 y una desviación estándar de 1. Cualquier variable normal puede estandarizarse usando la siguiente fórmula:
 
 **Formula de Estandarización (puntuación Z):**
 
