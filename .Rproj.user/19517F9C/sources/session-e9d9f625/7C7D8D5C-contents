@@ -43,7 +43,7 @@ knitr:
     out.width: "70%"
 ---
 
-```{.html}
+```{=html}
 <div style="text-align: right;">
   <img src="logout.png" width="150">
 </div>
